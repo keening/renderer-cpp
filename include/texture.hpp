@@ -2,7 +2,7 @@
 #define TEXTURE_H
 
 #include <iostream>
-#include <GL/glew.h>
+#include <glew.h>
 
 class Texture {
 public:

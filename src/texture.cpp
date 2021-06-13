@@ -1,7 +1,7 @@
 #include "../include/texture.hpp"
 
 #define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
+#include "../include/stb_image.h"
 
 Texture::Texture(const char* texturePath) {
     unsigned int texture;
